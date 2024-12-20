@@ -1,1 +1,1 @@
-Hello Conflict Branch!
+Hello from Conflict Branch!
